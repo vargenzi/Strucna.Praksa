@@ -1,2 +1,2 @@
 # Strucna.Praksa
-Pozdrav, postavljam instalaciju projekta, trebalo bi da radi.
+Pozdrav, postavljam instalaciju projekta, Output/Instalacija.exe .
